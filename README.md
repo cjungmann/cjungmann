@@ -1,7 +1,30 @@
 # Chuck Jungmann
 
+I'm an old programmer who loves to write code.  I aspire to continual
+improvement, taking stock of on-going work to evaluate practices that help
+or hinder my projects.
+
+In particular, I try to improve my ability to write code that is easy to
+read, easy to follow, and easy to debug.  I like to experiment with new
+code organization ideas in unfamiliar domains.
+
+I have not been formally employed for many years, and my money-making
+ideas have, sadly, not garnered much money.  The ideas have generally been
+too big, growing in scope as I recognize unexpected requirements.  It
+often feels like bicycling up a high mountain pass, hoping each curve
+reveals the crest of the road, the final issue to solve before you can
+consider a project to be complete.  Just like I refused to take a cycling
+break before the crest of the road, I stick with unprofitable projects too
+long with the hope that the next feature or fix will be the last.
+
 ![](https://visitor-badge.glitch.me/badge?page_id=cjungmann.cjungmann)
 
+## Apologies
+
+This is my first effort in creating a GitHub profile.  The following
+content is representative of my skills and interests, but it will be
+repetitive and disorganized while I experiment and study other profiles
+for better ideas.
 
 ## Skills
 
