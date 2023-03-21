@@ -80,8 +80,8 @@ Here are some ad-hoc examples:
 
 - 
 
-![](https://github-readme-stats.vercel.app/api?username=cjungmann&show_icons=true&theme=radical&include_all_commits=true)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=cjungmann&show_icons=true&theme=radical&include_all_commits=true)
 
-![](https://github-readme-stackoverflow.vercel.app/?userID=2415831&theme=dark)
+![](https://github-readme-stackoverflow-sigma-five.vercel.app/?userID=2415831&theme=dark)
 
-![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cjungmann&layout=compact&theme=material-palenight)
+![](https://github-readme-stats.anuraghazra1-sigma-five.vercel.app/api/top-langs/?username=cjungmann&layout=compact&theme=material-palenight)
